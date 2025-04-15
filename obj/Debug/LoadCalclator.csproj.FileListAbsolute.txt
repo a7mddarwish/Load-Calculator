@@ -1,0 +1,10 @@
+D:\Programming\LoadCalclator\bin\Debug\LoadCalclator.exe.config
+D:\Programming\LoadCalclator\bin\Debug\LoadCalclator.exe
+D:\Programming\LoadCalclator\bin\Debug\LoadCalclator.pdb
+D:\Programming\LoadCalclator\obj\Debug\LoadCalclator.csproj.AssemblyReference.cache
+D:\Programming\LoadCalclator\obj\Debug\LoadCalclator.Form1.resources
+D:\Programming\LoadCalclator\obj\Debug\LoadCalclator.Properties.Resources.resources
+D:\Programming\LoadCalclator\obj\Debug\LoadCalclator.csproj.GenerateResource.cache
+D:\Programming\LoadCalclator\obj\Debug\LoadCalclator.csproj.CoreCompileInputs.cache
+D:\Programming\LoadCalclator\obj\Debug\LoadCalclator.exe
+D:\Programming\LoadCalclator\obj\Debug\LoadCalclator.pdb
