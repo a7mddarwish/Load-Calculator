@@ -6,7 +6,7 @@ A desktop application that bridges the gap between software development and elec
 
 ##  Interface
 
-![Load Calculator Screenshot](![image]()
+![Load Calculator Screenshot](![image](https://github.com/a7mddarwish/Load-Calculator/blob/main/mainUI.jpg)
 )
 
 ---
