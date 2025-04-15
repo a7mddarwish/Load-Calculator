@@ -5,10 +5,10 @@ A desktop application that bridges the gap between software development and elec
 ---
 
 ##  Interface
-
-![Load Calculator Screenshot](![image](https://github.com/a7mddarwish/Load-Calculator/blob/main/mainUI.jpg)
-)
-
+### main UI
+![Load Calculator Screenshot](images/mainUI.jpg)
+### After Caculate Load Current(A) , Load Power (W) and Circuit Breaker
+![After Caculation ScreenShoot](images/AfterAddandCalculateLoads.jpg)
 ---
 
 ##  Features
